@@ -1,0 +1,15 @@
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
